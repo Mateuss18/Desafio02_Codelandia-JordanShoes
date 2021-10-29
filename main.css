@@ -56,7 +56,7 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url(/images/Air-Jordan.png);
+  background-image: url(./images/Air-Jordan.png);
 }
 
 #container-nav::before {
