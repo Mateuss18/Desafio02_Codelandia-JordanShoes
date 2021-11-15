@@ -53,6 +53,7 @@ body {
   width: 100%;
   min-height: 378px;
   position: relative;
+  background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
