@@ -14,18 +14,6 @@
 
 ---
 
-## 🖖 Apresentação
-
-Olá pessoal, tudo bem?
-
-Os desafios vão ser lançados todos os finais de semanas!
-
-Todos os desafios são para nível JÚNIOR, mas com o tempo vamos ir aprofundando cada vez mais.
-
-Os desafios serão feitos no Figma onde qualquer pessoa pode acessá-lo e até deslocá-lo para editá-lo.
-
----
-
 ### **Desafio 02 - JordanShoes** <a name="id01"></a>
 
 <img src="images/desktop.gif" alt="">
@@ -35,6 +23,21 @@ Os desafios serão feitos no Figma onde qualquer pessoa pode acessá-lo e até d
 Link do desafio no Figma: [Clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=1883%3A2)
 
 Material de apoio: [Clique aqui](https://github.com/iuricode/desafios-codelandia/blob/main/material-de-apoio/material-de-apoio-desafio01.zip)
+
+>
+---
+<h2 align="center">
+  Tecnologias
+</h2>
+
+<div align="center">
+
+![](https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/html-5.svg)
+
+![](https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/css.svg)
+
+![](https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/javascript.svg)
+</div>
 
 >
 ---
