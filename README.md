@@ -41,9 +41,7 @@ Material de apoio: [Clique aqui](https://github.com/iuricode/desafios-codelandia
 <div align="center">
 
 ![](https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/html-5.svg)
-
 ![](https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/css.svg)
-
 ![](https://github.com/JoshDanielWalker/Tech-SVG-Icons/blob/master/javascript.svg)
 </div>
 
