@@ -33,7 +33,7 @@
 
 ### **Desafio 02 - JordanShoes** <a name="id01"></a>
 
-### [🔛 Rodar pagina](https://mateuss18.github.io/Desafio01_Codelandia-Blog/#)
+### [🔛 Rodar pagina](https://mateuss18.github.io/Desafio02_Codelandia-JordanShoes/)
 
 <img src="images/desktop.gif" alt="">
 
